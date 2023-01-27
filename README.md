@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Castro1709
-- 👀 I’m interested in game development 
-- 🌱 I’m currently learning front-end development
-- 📫 How to reach me: castrotio09172002@gmail.com
+- I create games in Godot :p
+- I know Gdscript, c#, java and I don't know what else to say here!
+- Will anyone ever read this?
 
 <!---
 Castro1709/Castro1709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
