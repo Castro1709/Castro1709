@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Castro1709
 - I create games in Godot :p
-- I know Gdscript, c#, java and I don't know what else to say here!
+- I know Gdscript, c#, javaScript and I don't know what else to say here!
 - Will anyone ever read this?
 
 <!---
